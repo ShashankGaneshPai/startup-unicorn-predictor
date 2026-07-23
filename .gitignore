@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+
+# Node
+node_modules/
+dist/
+build/
+
+# Vite
+.vite/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
